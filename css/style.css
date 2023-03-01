@@ -19,6 +19,7 @@
 .navbar .navbar-brand{
     color: var(--main-color) !important;
     font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .navbar .nav-link{
     color: white !important;
